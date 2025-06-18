@@ -21,3 +21,4 @@ Offline Windows Sysmon lab for log analysis and MITRE technique simulation.
 ![Event ID 4625 - Failed Logon](event_id_4625_failed_logon.png)
 
 > This log captures a failed authentication attempt by a non-existent user (`fakeuser`), demonstrating brute force or credential misuse detection mapped to MITRE ATT&CK T1078.
+🕒 Note: Events were triggered across multiple sessions to demonstrate different attacker behaviors individually.
